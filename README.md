@@ -41,7 +41,12 @@ Our mission: **let everyone read the language of the brain.**
 - GitHub: [github.com/NeuPivot](https://github.com/NeuPivot)
 - Mail: [neupivot@gmail.com](mailto:neupivot@gmail.com)
 - Bilibili: [space.bilibili.com/476644796](https://space.bilibili.com/476644796)
+- QQ交流群 / QQ group: **1125680226**
 - Issues & discussions: [NeuEEG issues](https://github.com/NeuPivot/NeuEEG/issues)
+
+<p align="center">
+  <img src="assets/qq-group.png" alt="QQ group 1125680226" width="200"/>
+</p>
 
 <p align="center">
   <img src="assets/logo.png" alt="新枢脑控 NeuPivot" width="260"/>
