@@ -39,6 +39,7 @@ Our mission: **let everyone read the language of the brain.**
 ## Contact / 联系我们
 
 - GitHub: [github.com/NeuPivot](https://github.com/NeuPivot)
+- Mail: [neupivot@gmail.com](mailto:neupivot@gmail.com)
 - Issues & discussions: [NeuEEG issues](https://github.com/NeuPivot/NeuEEG/issues)
 
 <p align="center">
