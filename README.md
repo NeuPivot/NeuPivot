@@ -40,6 +40,7 @@ Our mission: **let everyone read the language of the brain.**
 
 - GitHub: [github.com/NeuPivot](https://github.com/NeuPivot)
 - Mail: [neupivot@gmail.com](mailto:neupivot@gmail.com)
+- Bilibili: [space.bilibili.com/476644796](https://space.bilibili.com/476644796)
 - Issues & discussions: [NeuEEG issues](https://github.com/NeuPivot/NeuEEG/issues)
 
 <p align="center">
