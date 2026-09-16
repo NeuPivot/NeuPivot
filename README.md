@@ -26,15 +26,19 @@ Our mission: **let everyone read the language of the brain.**
 
 ## Core Projects / 核心项目
 
-<table>
-  <tr>
-    <td width="96">🧠</td>
-    <td>
-      <b><a href="https://github.com/NeuPivot/NeuEEG">NeuEEG</a></b> — Open-source single-channel EEG: hardware, firmware & host software.<br/>
-      全栈开源单通道脑电：硬件、固件与上位机。实测短接底噪 0.057 µVrms / 0.41 µVpp。
-    </td>
-  </tr>
-</table>
+We open-source our core EEG development platform:
+
+我们开源旗下核心脑电开发平台：
+
+<a href="https://github.com/NeuPivot/NeuEEG">
+  <img src="assets/neueeg-hero.png" alt="NeuEEG" width="100%"/>
+</a>
+
+- **[NeuEEG](https://github.com/NeuPivot/NeuEEG)**
+
+Fully open-source single-channel EEG stack — hardware, firmware, and host software.
+
+全栈开源单通道脑电 —— 硬件、固件与上位机。实测短接底噪 0.057 µVrms / 0.41 µVpp。
 
 ## Contact / 联系我们
 
